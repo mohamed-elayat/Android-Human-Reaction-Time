@@ -38,7 +38,7 @@ From Android Studio,
 
 Click on the following image to be redirected to the youtube video.
 
-[![Demo of the app. Click on this to be redirected](https://github.com/mohamed-elayat/Android-Human-Reaction-Time/screenshot.JPG)](https://www.youtube.com/watch?v=CSfjo84Bfm0)
+[![Demo of the app. Click on this to be redirected](https://i.imgur.com/3lqNRU0.jpg)](https://www.youtube.com/watch?v=CSfjo84Bfm0)
 
 &nbsp;  
 &nbsp;  
