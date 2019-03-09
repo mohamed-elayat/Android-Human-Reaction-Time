@@ -7,7 +7,7 @@ A simple game that tests the user's reaction time.
 
 ## About
 
-One of the projects for our User Interface class. After starting the game, the game displays a yellow screen
+One of the projects for our User Interface class. Upon starting, the game displays a yellow screen
  after a random number of milliseconds between 3000 and 10,000.
 The user must click on the screen as soon as the screen turns yellow. After a series of 5 trials,
  the game shows the user his average reaction time.
